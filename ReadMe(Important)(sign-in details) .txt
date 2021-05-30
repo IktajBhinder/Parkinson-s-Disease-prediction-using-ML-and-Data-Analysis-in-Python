@@ -15,7 +15,7 @@ Simply use pip commands in Windows powershell to download the required python Li
 5. The sample tesing dataset that is to be used in the project is present in the
    package folder itself, named as "Parkinsondataset.arff"
 
-7. The python file to be executed in IDE is "main.py"
+6. The python file to be executed in IDE is "main.py"
 
  ================ Login Credentials ===============
  --------------------------------------------------
